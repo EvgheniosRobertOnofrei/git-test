@@ -1,2 +1,4 @@
 # git-test
-first git repository 
+
+first git repository
+hello odin project
